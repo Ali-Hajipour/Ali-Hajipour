@@ -40,7 +40,7 @@ class AliHajipour:
         return [
             "🎸 Guitar player when not staring at packet captures",
             "🎮 Video games are my second home",
-            "🌍 Persian native · English IELTS 7 · German B1",
+            "🌍 Persian native · English IELTS 7 · German B2",
         ]
 ```
 
